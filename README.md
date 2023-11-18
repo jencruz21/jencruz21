@@ -14,7 +14,7 @@
         <img src="./assets/instagram.png" width="150px">
     </a>
     <a  style="margin: 10px" href="mailto: maxcruz4455@gmail.com" target="blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail2020.logo.png" width="135px">
+        <img src="./assets/gmail.png" width="135px">
     </a>
 </p>
 
