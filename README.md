@@ -1,5 +1,5 @@
 <p align="center">
-    <img style="border-radius: 45px;" src="./assets/gradient.jpg">
+    <img style="border-radius: 45px;" src="./assets/gradient.png">
 </p>
 
 <h3 align="center">So I'm Jorgen uhhh I don't usually code but I'm always in motion!</h3>
